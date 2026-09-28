@@ -1,0 +1,5 @@
+name: genpark-admm-distributed-consensus-optimization-skill
+description: Alternating Direction Method of Multipliers (ADMM) for Lasso sparse regression and distributed consensus optimization
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
