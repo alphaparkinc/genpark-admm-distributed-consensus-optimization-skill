@@ -1,0 +1,19 @@
+{
+  "name": "genpark-admm-distributed-consensus-optimization-skill",
+  "version": "1.0.0",
+  "description": "Alternating Direction Method of Multipliers (ADMM) for Lasso sparse regression and distributed consensus optimization",
+  "category": "Service",
+  "tags": [
+    "mcp",
+    "admm",
+    "lasso-regression",
+    "sparse-optimization",
+    "distributed-consensus",
+    "proximal-gradient",
+    "convex-optimization",
+    "python-standard-library",
+    "agent-skills",
+    "multi-agent-optimization",
+    "l1-regularization"
+  ]
+}
