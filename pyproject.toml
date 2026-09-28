@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-admm-distributed-consensus-optimization-skill"
+version = "1.0.0"
+description = "Alternating Direction Method of Multipliers (ADMM) for Lasso sparse regression and distributed consensus optimization"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
